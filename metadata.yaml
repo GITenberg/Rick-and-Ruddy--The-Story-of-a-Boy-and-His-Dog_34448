@@ -1,0 +1,38 @@
+_repo: Rick-and-Ruddy--The-Story-of-a-Boy-and-His-Dog_34448
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Goss, John
+    birthdate: 1886
+    deathdate: 1963
+    gutenberg_agent_id: '7136'
+    url: http://www.gutenberg.org/2009/agents/7136
+covers:
+- cover_type: archival
+  image_path: 34448-h/images/cover.png
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Garis, Howard R.
+    - Davidson, Marion
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2010-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34448'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Dogs -- Juvenile fiction'
+title: 'Rick and Ruddy: The Story of a Boy and His Dog'
+url: http://www.gutenberg.org/ebooks/34448
